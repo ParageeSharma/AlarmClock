@@ -8,10 +8,10 @@ Wake up from your dreams to start working on your dream with an alarm clock!
 ## Setup Description 
 ### you need to install following libraries to run this python program in cmd
 
-````
+```
 pip install playsound
 ```
 
 
 Fork this repository and enjoy the project! Contribute if necessary!
-Rename your desired alarm sound to song.mp3 and place the file in the root folder of the .py code.[AlarmClock.txt](https://github.com/ParageeSharma/AlarmClock/files/7776047/AlarmClock.txt)
+Rename your desired alarm sound to song.mp3 and place the file in the root folder of the .py code.
